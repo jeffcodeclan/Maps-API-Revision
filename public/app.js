@@ -21,7 +21,6 @@
         console.log(selected);
     }
     updateDisplay(selected);
-    // document.querySelector('#info').style.display = 'block';
 };
     var populateSelect = function (countries) {
     var parent = document.querySelector('#countries');
